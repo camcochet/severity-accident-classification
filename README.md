@@ -1,6 +1,6 @@
 # Severity personal injury accidents prediction challenge
 
-**Credits to : Camille Cochet - Matthieu Colin de Verdière - Mithuran Gajendran - Arnaud Houzé de l'Aulnoit - Hugo Mallet**
+**Camille Cochet - Matthieu Colin de Verdière - Mithuran Gajendran - Arnaud Houzé de l'Aulnoit - Hugo Mallet**
 
 Each year thousands of traffic accidents happen in France what can cause injuries or even the death to the involved users. Modeling accident severity prediction critical to the effective performance of road traffic systems for improved safety. Moreover this feature is important for countries to demonstrate the quality and the security of their infrastructures.
 
