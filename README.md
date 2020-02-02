@@ -26,7 +26,7 @@ To do that you dispose of 4 csv files that you have to pre-process using Python 
 
 You are also expected to use Machine Learning tools of your choice to make your predictions.
 
-#### Set up
+## Set up
 
 Open a terminal and
 
