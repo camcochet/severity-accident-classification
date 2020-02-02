@@ -10,7 +10,7 @@ Otherwise assurance companies are also interested in this area because knowing t
 
 ## Purpose
 
-In this data challenge you are expected to determine the severity of traffic accident involving injuries in 2017 in the French territory. The aim is to predict for each involved person in the accident the level of injuries between four possibilities :
+In this data challenge you are expected to determine the severity of traffic accident involving injuries in 2018 in the French territory. The aim is to predict for each involved person in the accident the level of injuries between four possibilities :
 <ol>
     <li> Uninjured
     <li> Killed
