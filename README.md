@@ -2,9 +2,9 @@
 
 **Camille Cochet - Matthieu Colin de Verdière - Mithuran Gajendran - Arnaud Houzé de l'Aulnoit - Hugo Mallet**
 
-Each year thousands of traffic accidents happen in France what can cause injuries or even the death to the involved users. Modeling accident severity prediction critical to the effective performance of road traffic systems for improved safety. Moreover this feature is important for countries to demonstrate the quality and the security of their infrastructures.
+Each year thousands of traffic accidents happen in France that can cause injuries or even the death of the involved users. Modeling accident severity prediction is critical to the effective performance of road traffic systems for an improved safety. Moreover this feature is important for countries to demonstrate the quality and the security of their infrastructures.
 
-Security is also a very important subject for car manufacturers which are asked to respect many constraints and do many tests to be allowed to sell a new car.
+Security is also a very important subject for car manufacturers which are asked to respect many constraints from regulations and having them tested to be allowed to sell their new car.
 
 Otherwise assurance companies are also interested in this area because knowing the risk of accident gravity help them to adjust their assurance contract prices regarding the type of car and the experience of the driver.
 
