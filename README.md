@@ -28,7 +28,7 @@ You are also expected to use Machine Learning tools of your choice to make your 
 
 ## Set up
 
-Open a terminal and
+Open a terminal and :
 
 1. install the `ramp-workflow` library (if not already done)
   ```
